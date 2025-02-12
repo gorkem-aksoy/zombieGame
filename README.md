@@ -38,6 +38,10 @@ Bu proje, Unity kullanılarak geliştirilen zombi temalı bir 3D birinci şahıs
 ## İletişim
 Herhangi bir sorunuz için benimle iletişime geçebilirsiniz.
 
+## Lisans
+Bu proje [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) lisansı altında lisanslanmıştır.
+
+
 ---
 ![5](https://github.com/user-attachments/assets/5a7c365f-25c3-4092-a47d-294d29e938c4)
 ![6](https://github.com/user-attachments/assets/49808398-4f43-41a2-8e1a-4edb44d6efc5)
